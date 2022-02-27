@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LockPick</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home Page</string>
+    <string name="second_fragment_label">Access Control</string>
+    <string name="unlock">UNLOCK!</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="first_fragment_main_title">Welcome to the APP! \n The App is LOCKED!</string>
+
+    <string name="second_fragment_instructions">Enter the 4 digit code</string>
+
+    <string name="second_fragment_number_one">1</string>
+    <string name="second_fragment_number_two">2</string>
+    <string name="second_fragment_number_three">3</string>
+    <string name="second_fragment_number_four">4</string>
+
+    <string name="second_fragment_clear_button">Clear</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
